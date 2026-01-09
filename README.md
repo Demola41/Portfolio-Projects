@@ -1,4 +1,4 @@
-#Sales Performance Analysis
+# Sales Performance Analysis
 ## Situation
 Analyzed seven years of sales data (2014–2021) for a global retailer with $2.91 billion in revenue across six countries to evaluate long-term market trends.
 The goal was to assess performance across 2,412 products and 14 manufacturers to identify key growth drivers and regional opportunities.
