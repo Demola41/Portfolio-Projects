@@ -9,3 +9,5 @@ Used Power BI to build a comprehensive dashboard featuring time-series revenue t
 The project highlighted a 187.73% total revenue increase and identified the USA ($1.70bn) and Urban markets (79.79% of sales) as the primary revenue engines.
 ## Recommendation
 Recommended establishing distribution centers in urban USA regions to support the 80% demand volume and discontinuing low-performing rural logistics routes to improve margin efficiency.
+## Dataset Used 
+- <a href="https://github.com/Demola41/Portfolio-Projects/blob/main/Sales%20Performance%20Analysis.pbix">Dataset</a>
