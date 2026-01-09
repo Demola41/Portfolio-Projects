@@ -1,6 +1,6 @@
 # Sales Performance Analysis Dashboard
 ## 1. Situation
-Analyzed seven years of sales data (2014–2021) for a global retailer with **$2.91 billion in revenue** across six countries to evaluate long-term market trends.
+Analyzed seven years of sales data (2014–2021) for a global retailer with **$2.91 billion** in revenue across six countries to evaluate long-term market trends.
 
 ## 2. Task
 The goal was to assess performance across **2,412 products and 14 manufacturers** to identify key growth drivers and regional opportunities.
@@ -20,5 +20,4 @@ Used Power BI to build a comprehensive dashboard featuring time-series revenue t
 * **Cost Reduction:** Discontinue low-performing rural logistics routes to improve margin efficiency.
 
 ## 6. Project Files
-- [Download Power BI File (.pbix)]
-- <a href="https://github.com/Demola41/Portfolio-Projects/blob/main/Sales%20Performance%20Analysis.pbix">Dataset</a> 
+- <a href="https://github.com/Demola41/Portfolio-Projects/blob/main/Sales%20Performance%20Analysis.pbix">[Download Power BI File (.pbix)]</a> 
