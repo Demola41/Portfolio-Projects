@@ -1,5 +1,5 @@
 # Sales Performance Analysis Dashboard
-- <a href="https://github.com/Demola41/Portfolio-Projects/blob/main/Sales%20Perfomance%20analysis.png)">[Dashboard Preview]</a>
+- <a href="https://github.com/Demola41/Portfolio-Projects/blob/main/Sales%20Perfomance%20analysis.png">[Dashboard Preview]</a>
 ## 1. Situation
 Analyzed seven years of sales data (2014–2021) for a global retailer with **$2.91 billion** in revenue across six countries to evaluate long-term market trends.
 
